@@ -172,6 +172,13 @@ transition: all 3ms ease-in;
 	display: none;
 }
 
+.title2{
+	font-size: 30px;
+	color: white;
+	padding-top:20px;
+	text-shadow: 1px 1px 1px #000000; 
+}
+
 .fondo2{
 	background-color: #A2A2A2;
 	width: 100%;
